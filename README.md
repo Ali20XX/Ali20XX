@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali20XX
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Design
-- 💞️ I’m looking to collaborate on Game Developers
+- 💞️ I’m looking to collaborate with Game Developers
 - 📫 How to reach me https://www.linkedin.com/in/ali-casim-4a9703211/
 
 <!---
